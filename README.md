@@ -1,7 +1,3 @@
-### Hi there 👋 I am Jonghyun Choe, a Software Engineer
+Hi, I'm an undergraduate student majoring in Computer Science at Seoul National University, and I'll be starting my master's at Carnegie Mellon University this fall.
 
-- 🌱 I'm interested in **MLOps**, **Distributed System**, and **Scalable Engineering**
-- 💻 I’m majoring in **Computer Science** at **SNU** 
-- 🔭 I previously worked as a **Backend Engineer** at a fintech startup **Dunamu**
-- 🔥 I love connecting with new people so feel free to reach out 
-- 📫 How to reach me: andy.choe729@gmail.com
+I am interested in areas of large-scale systems, computer architecture, and hardware/software co-design. My goal is to optimize emerging workloads across the software, hardware stack to improve the efficiency of large-scale systems.
